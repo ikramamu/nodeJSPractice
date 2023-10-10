@@ -2,13 +2,12 @@
 basic CRUD operations with nodeJS and Mongo
 
 Implemented Operations:
- -Get/GetByID
- -Post for adding a new book
- -Delete a book
+ - Get/GetByID
+ - Post for adding a new book
+ - Delete a book
  - JOI validation for post
 
 Next task:
 - Implement Update
-- Book and author relation explore
-- 
+-  Explore Book and author relationship
  
